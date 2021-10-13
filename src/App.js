@@ -1,5 +1,4 @@
 import './App.css';
-import { Body } from './layout/layoutElements';
 import BrochureList from './brochure/BrochureList'
 import Container from 'react-bootstrap/Container'
 import Hero from './hero/Hero';

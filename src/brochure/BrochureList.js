@@ -7,7 +7,6 @@ import Filter from '../filter/Filter';
 
 function BrochureList() {
     const [filters, setFilters] = useState([]);
-    const [items, setitems] = useState([]);
 
     function onTrigger(options) {
         console.log(options, "parent")
