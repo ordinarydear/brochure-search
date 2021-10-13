@@ -1,5 +1,4 @@
 import React from 'react'
-import { HeroCtn } from './HeroElements'
 
 
 function Hero() {

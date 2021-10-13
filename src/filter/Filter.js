@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import Select from 'react-select'
 
-import Data from '../brochure/Data';
 import { Container } from 'react-bootstrap';
 import options from './Options';
 
